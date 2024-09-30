@@ -66,3 +66,6 @@ The development of the Blog Application and the compilation of this documentatio
   An online forum for programming-related questions and solutions that provided support during debugging and troubleshooting.
  
   URL: https://stackoverflow.com
+  
+![Blog Ui 2](https://github.com/user-attachments/assets/b27d088c-5a71-4c37-a0e1-dfbc30d566e2)
+![Blog Ui 1](https://github.com/user-attachments/assets/bda28721-5cf4-4f31-96e7-29658d6fc20c)
