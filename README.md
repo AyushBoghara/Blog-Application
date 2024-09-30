@@ -2,7 +2,7 @@
 
 # INTRODUCTION
 
-This is Blog Application, developed carefully by Aayush M. Boghara for the Android platform. Welcome to the Blog Application, an innovative and user-centric mobile solution meticulously crafted to revolutionize
+This is a Blog Application, developed carefully by Aayush M. Boghara for the Android platform. Welcome to the Blog Application, an innovative and user-centric mobile solution meticulously crafted to revolutionize
 the way individuals and organizations manage their content. Developed using Android Studio and integrated with Firebase technologies, this application offers a dynamic platform designed to cater to the diverse needs of bloggers and content creators.
 
 # TECHNOLOGY USED
