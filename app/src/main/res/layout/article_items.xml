@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="12dp"
+    android:backgroundTint="@color/background_color"
+    android:background="@color/background_color">
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="4dp"
+        android:padding="10dp"
+        android:layout_marginBottom="4dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/article_title_your"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:fontFamily="@font/adlam_display"
+                android:text="@string/please_start_writing_better_git_commits"
+                android:textColor="@color/text_color_blue"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:ignore="TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/author_your"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/article_title_your"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="8dp"
+                android:fontFamily="@font/adlam_display"
+                android:text="@string/new_blogger"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="14sp"
+                tools:ignore="TextContrastCheck" />
+
+            <TextView
+                android:id="@+id/date_your"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/article_title_your"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="10dp"
+                android:fontFamily="@font/adlam_display"
+                android:text="@string/jul_29_2022"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="14sp"
+                tools:ignore="TextContrastCheck" />
+
+            <View
+                android:id="@+id/line"
+                android:layout_marginTop="8dp"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@android:color/darker_gray"
+                android:backgroundTint="@android:color/darker_gray"
+                android:layout_below="@+id/author_your"/>
+
+            <TextView
+                android:id="@+id/article_content_your"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/line"
+                android:maxLines="6"
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:fontFamily="@font/adlam_display"
+                android:text="I recently read a helpful article on Hashnode by Simon Egersand titled 'Write Git Commit Messages Your Colleagues Will Love,' and it inspired me to dive a little deeper into understanding what makes a Git commit good or bad."
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                tools:ignore="HardcodedText,VisualLintLongText" />
+
+            <LinearLayout
+                android:id="@+id/actions"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/article_content_your"
+                android:layout_marginTop="15dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:orientation="horizontal">
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/read_more_button"
+                    style="@style/button_read_more"
+                    android:layout_width="200dp"
+                    android:layout_height="60dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="10dp"
+                    android:backgroundTint="@color/text_color_blue"
+                    android:text="Read more"
+                    android:textColor="@android:color/white"
+                    tools:ignore="HardcodedText,TextSizeCheck,TextContrastCheck" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginStart="20dp"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/imageViewLike"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:importantForAccessibility="no"
+                        android:src="@drawable/ic_inactive_favorite" />
+
+                    <TextView
+                        android:id="@+id/likeCount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginStart="5dp"
+                        android:layout_marginEnd="6dp"
+                        android:fontFamily="@font/adlam_display"
+                        android:text="0"
+                        android:textColor="@color/black"
+                        android:textSize="19sp"
+                        tools:ignore="HardcodedText" />
+
+                    <ImageView
+                        android:id="@+id/imageViewBookMark"
+                        android:layout_width="35dp"
+                        android:layout_height="35dp"
+                        android:layout_marginStart="10dp"
+                        android:importantForAccessibility="no"
+                        android:src="@drawable/ic_inactive_bookmark" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>
