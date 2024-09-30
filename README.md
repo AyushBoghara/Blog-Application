@@ -7,14 +7,14 @@ the way individuals and organizations manage their content. Developed using Andr
 
 # TECHNOLOGY USED
 
-1 Android Studio
-2 Android SDK
-3 Firebase Console
-4 Firestore Database
-5 Firebase Authentication
-6 Java
-7 XML
-8 Android XML Layouts
+#1 Android Studio
+#2 Android SDK
+#3 Firebase Console
+#4 Firestore Database
+#5 Firebase Authentication
+#6 Java
+#7 XML
+#8 Android XML Layouts
 
 # REFERENCES
 The development of the Blog Application and the compilation of this documentation were supported by various resources, platforms, and tools. Below are the key references that contributed to the successful completion of this project:
