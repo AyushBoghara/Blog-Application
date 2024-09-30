@@ -8,51 +8,61 @@ the way individuals and organizations manage their content. Developed using Andr
 # TECHNOLOGY USED
 
 1 Android Studio
+
 2 Android SDK
+
 3 Firebase Console
+
 4 Firestore Database
+
 5 Firebase Authentication
+
 6 Java
+
 7 XML
+
 8 Android XML Layouts
 
 # REFERENCES
 The development of the Blog Application and the compilation of this documentation were supported by various resources, platforms, and tools. Below are the key references that contributed to the successful completion of this project:
 
-# Android Studio Documentation
- Official Documentation for Android
- Development.
- URL: https://developer.android.com/docs
+1 Android Studio Documentation
+   Official Documentation for Android Development.
  
-# Firebase Documentation
- Comprehensive guide to Firebase services,
- including Firebase Authentication, Firebase
- Database, and Firestore.
- URL: https://firebase.google.com/docs
+   URL: https://developer.android.com/docs
  
-# Java SE Documentation
- Reference material for the Java programming
- language used in the development of the
- application's backend.
- URL: https://docs.oracle.com/javase/8/docs/
+2 Firebase Documentation
 
-# XML Layouts in Android
- Official documentation for creating and
- managing Android XML layouts.
- URL: https://developer.android.com/guide/topics/ui/declaring-layout
+   Comprehensive guide to Firebase services,including Firebase Authentication, Firebase Database, and Firestore.
  
-# Google Cloud Firestore Documentation
- Guide on using Firestore for real-time database
- synchronization.
- URL: https://firebase.google.com/docs/firestore
+   URL: https://firebase.google.com/docs
  
-# Firebase Authentication Documentation
- Detailed reference for setting up and managing
- Firebase Authentication in Android apps.
- URL: https://firebase.google.com/docs/auth
+3 Java SE Documentation
 
-# Stack Overflow Community
- An online forum for programming-related questions
- and solutions that provided support during
- debugging and troubleshooting.
- URL: https://stackoverflow.com
+   Reference material for the Java programming language used in the development of the application's backend.
+ 
+   URL: https://docs.oracle.com/javase/8/docs/
+
+4 XML Layouts in Android
+
+   Official documentation for creating and managing Android XML layouts.
+ 
+   URL: https://developer.android.com/guide/topics/ui/declaring-layout
+ 
+5 Google Cloud Firestore Documentation
+
+  Guide on using Firestore for real-time database synchronization.
+ 
+  URL: https://firebase.google.com/docs/firestore
+ 
+6 Firebase Authentication Documentation
+
+  Detailed reference for setting up and managing Firebase Authentication in Android apps.
+ 
+  URL: https://firebase.google.com/docs/auth
+
+7 Stack Overflow Community
+
+  An online forum for programming-related questions and solutions that provided support during debugging and troubleshooting.
+ 
+  URL: https://stackoverflow.com
