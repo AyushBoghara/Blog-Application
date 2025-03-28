@@ -71,7 +71,7 @@ Follow these steps to set up and run the Blog Application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/blog-application.git
+   git clone https://github.com/AyushBoghara/Blog-Application.git
    cd blog-application
    ```
 
