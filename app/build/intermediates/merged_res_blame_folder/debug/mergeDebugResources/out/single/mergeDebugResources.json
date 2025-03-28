@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_background_texture.png.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_background_texture.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/anim_from_right.xml.flat",
+        "source": "com.example.blog.app-main-45:/anim/from_right.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_fragment_welcome.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/fragment_welcome.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_docs.png.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_docs.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_mail.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_mail.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_button_background_blue.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/button_background_blue.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_left_red.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_left_red.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.blog.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_plus.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_user.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_user.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_fragment_reset_password.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/fragment_reset_password.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_rectangle_navbar.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/rectangle_navbar.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_bookmark.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_bookmark.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_fragment_home.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/anim_from_left.xml.flat",
+        "source": "com.example.blog.app-main-45:/anim/from_left.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_edittext_background.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/font_adlam_display.xml.flat",
+        "source": "com.example.blog.app-main-45:/font/adlam_display.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_your_articles.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_your_articles.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_add_image.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_add_image.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_read_more.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_read_more.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_active_favorite.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_active_favorite.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_not_available.jpg.flat",
+        "source": "com.example.blog.app-main-45:/drawable/not_available.jpg"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "com.example.blog.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_inactive_bookmark.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_inactive_bookmark.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_your_articles_items.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/your_articles_items.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_article_items.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/article_items.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_button_background_red.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/button_background_red.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_user_profile.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_user_profile.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_chevron_left.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_chevron_left.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_fragment_sign_up.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/fragment_sign_up.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_inactive_favorite.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_inactive_favorite.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_fab_bookmark_background.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/fab_bookmark_background.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_inactive_bookmark_white.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_inactive_bookmark_white.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_saved_articles.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_saved_articles.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_button_background_full_blue.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/button_background_full_blue.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_add_post.png.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_add_post.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_add_article.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_add_article.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_fragment_sign_in.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/fragment_sign_in.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_searchview_background.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/searchview_background.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_article_edit.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_article_edit.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_button_background_full_red.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/button_background_full_red.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_ic_turn_off.png.flat",
+        "source": "com.example.blog.app-main-45:/drawable/ic_turn_off.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/anim_out_from_right.xml.flat",
+        "source": "com.example.blog.app-main-45:/anim/out_from_right.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/font_love_ya_like_a_sister.xml.flat",
+        "source": "com.example.blog.app-main-45:/font/love_ya_like_a_sister.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/layout_activity_register.xml.flat",
+        "source": "com.example.blog.app-main-45:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_fab_like_background.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/fab_like_background.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/anim_out_form_left.xml.flat",
+        "source": "com.example.blog.app-main-45:/anim/out_form_left.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/menu_nav_user_profile.xml.flat",
+        "source": "com.example.blog.app-main-45:/menu/nav_user_profile.xml"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.blog.app-main-45:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.blog.app-debug-43:/drawable_fab_bookmark_icon.xml.flat",
+        "source": "com.example.blog.app-main-45:/drawable/fab_bookmark_icon.xml"
+    }
+]

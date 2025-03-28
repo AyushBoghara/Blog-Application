@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.SignInFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/blog_"
+        android:layout_marginTop="75dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/blog_"/>
+
+    <TextView
+        style="@style/share_your_story_with_us"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/share_your_story_with_us"/>
+    <TextView
+        style="@style/share_your_story_with_us"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/with_us"/>
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/etTxtEmail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text=""
+        android:hint="Email "
+        android:background="@drawable/button_background_red"
+        android:layout_marginTop="45dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:drawablePadding="30dp"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        style="@style/editText_email"
+        tools:ignore="HardcodedText" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/etTxt_password"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:text=""
+        android:hint="Password"
+        android:background="@drawable/button_background_red"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:drawablePadding="30dp"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        style="@style/editText_password"
+        tools:ignore="HardcodedText" />
+    <TextView
+        android:id="@+id/txt_forget_Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="30dp"
+        android:fontFamily="@font/adlam_display"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:text="Forget Password?" />
+
+    <ProgressBar
+        android:id="@+id/sign_in_progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="30dp"
+        android:indeterminate="true"
+        android:indeterminateTint="@color/text_color_blue"
+        android:visibility="invisible" />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnLogin"
+        style="@style/button_login_register_fullBackGround"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="19dp"
+        android:background="@drawable/button_background_full_red"
+        android:text="@string/login"/>
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="@string/new_here"
+        android:textSize="20sp"
+        android:textColor="@color/text_color"
+        android:fontFamily="@font/love_ya_like_a_sister"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnRegister"
+        style="@style/button_login_register"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_background_blue"
+        android:text="@string/register"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/blog_create_by"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/blog_create_by"/>
+
+</LinearLayout>
